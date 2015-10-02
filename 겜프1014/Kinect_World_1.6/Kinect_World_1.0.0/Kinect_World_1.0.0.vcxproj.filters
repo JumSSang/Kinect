@@ -1,0 +1,120 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="소스 파일">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="헤더 파일">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;hm;inl;inc;xsd</Extensions>
+    </Filter>
+    <Filter Include="리소스 파일">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+    <Filter Include="소스 파일\영상처리">
+      <UniqueIdentifier>{8e49ba61-1d2b-45bf-acda-abbbe1f8a455}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\모델링">
+      <UniqueIdentifier>{fa903f8c-d780-4ea8-9687-7a31e84e461d}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="헤더 파일\축구게임">
+      <UniqueIdentifier>{84a878b7-cba0-4f48-b68f-f4f3edb7a67d}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="헤더 파일\영상처리">
+      <UniqueIdentifier>{51b34371-8fb6-4d4c-88c5-d6ceccb75673}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\화면">
+      <UniqueIdentifier>{fa447c7b-1773-451f-b260-9694252f4469}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\게임">
+      <UniqueIdentifier>{c672aef6-f0b3-4536-af02-0c5dbf1c31f9}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\게임\야구게임">
+      <UniqueIdentifier>{d7ba68c2-fbcc-407f-9cf2-f3652135544f}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\게임\축구게임">
+      <UniqueIdentifier>{7cffb227-509c-4a07-889e-69924f164470}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\NLIP_Library">
+      <UniqueIdentifier>{cc3a55df-9565-4ccc-a9e7-d649c8f28e6e}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="헤더 파일\NLIP_Library">
+      <UniqueIdentifier>{86c041ea-d6da-4773-b455-f2681f3954a1}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\화면\초기화">
+      <UniqueIdentifier>{d98156e2-db66-4722-a1bd-dec5399eccb2}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="CvKinect.h">
+      <Filter>헤더 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="SkeletonData.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="DirectInit.cpp">
+      <Filter>소스 파일\화면\초기화</Filter>
+    </ClCompile>
+    <ClCompile Include="KinectInitial.cpp">
+      <Filter>소스 파일\화면\초기화</Filter>
+    </ClCompile>
+    <ClCompile Include="Render.cpp">
+      <Filter>소스 파일\화면</Filter>
+    </ClCompile>
+    <ClCompile Include="Step1_SkinnedMesh.cpp">
+      <Filter>소스 파일\NLIP_Library</Filter>
+    </ClCompile>
+    <ClCompile Include="main.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="XFile.cpp">
+      <Filter>소스 파일\NLIP_Library</Filter>
+    </ClCompile>
+    <ClCompile Include="Soccer_Modeling.cpp">
+      <Filter>소스 파일\게임\축구게임</Filter>
+    </ClCompile>
+    <ClCompile Include="KienctTexture.cpp">
+      <Filter>소스 파일\게임\축구게임</Filter>
+    </ClCompile>
+    <ClCompile Include="Mouse.cpp">
+      <Filter>소스 파일\NLIP_Library</Filter>
+    </ClCompile>
+    <ClCompile Include="Collusion.cpp">
+      <Filter>소스 파일\게임\축구게임</Filter>
+    </ClCompile>
+    <ClCompile Include="Utility.cpp">
+      <Filter>소스 파일\NLIP_Library</Filter>
+    </ClCompile>
+    <ClCompile Include="Math.cpp">
+      <Filter>소스 파일\영상처리</Filter>
+    </ClCompile>
+    <ClCompile Include="Sprite.cpp">
+      <Filter>소스 파일\NLIP_Library</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="Step1_SkinnedMesh.h">
+      <Filter>헤더 파일\NLIP_Library</Filter>
+    </ClInclude>
+    <ClInclude Include="XFile.h">
+      <Filter>헤더 파일\NLIP_Library</Filter>
+    </ClInclude>
+    <ClInclude Include="Mouse.h">
+      <Filter>헤더 파일\NLIP_Library</Filter>
+    </ClInclude>
+    <ClInclude Include="d3d.h">
+      <Filter>헤더 파일\NLIP_Library</Filter>
+    </ClInclude>
+    <ClInclude Include="SpritePattern.h">
+      <Filter>헤더 파일\NLIP_Library</Filter>
+    </ClInclude>
+    <ClInclude Include="Utility.h">
+      <Filter>헤더 파일\NLIP_Library</Filter>
+    </ClInclude>
+    <ClInclude Include="Sprite.h">
+      <Filter>헤더 파일\NLIP_Library</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>

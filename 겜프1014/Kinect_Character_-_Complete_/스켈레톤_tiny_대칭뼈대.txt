@@ -1,0 +1,92 @@
+*************************************** tiny.x **************************************
+
+NUI_SKELETON_POSITION_HEAD -------------------- Bip01_Head ------------------------ 3
+
+NUI_SKELETON_POSITION_SHOULDER_CENTER --------- Bip01_Spine3 or Bip01_Neck -------- 2
+
+NUI_SKELETON_POSITION_SHOULDER_RIGHT ---------- Bip01_R_UpperArm ------------------ 8
+NUI_SKELETON_POSITION_ELBOW_RIGHT ------------- Bip01_R_Forearm ------------------- 9
+NUI_SKELETON_POSITION_WRIST_RIGHT ------------- Bip01_R_Hand ---------------------- 10
+NUI_SKELETON_POSITION_HAND_RIGHT -------------- NULL ------------------------------ 11
+
+NUI_SKELETON_POSITION_SHOULDER_LEFT ----------- Bip01_L_UpperArm ------------------ 4
+NUI_SKELETON_POSITION_ELBOW_LEFT -------------- Bip01_L_Forearm ------------------- 5
+NUI_SKELETON_POSITION_WRIST_LEFT -------------- Bip01_L_Hand ---------------------- 6
+NUI_SKELETON_POSITION_HAND_LEFT --------------- NULL ------------------------------ 7
+
+NUI_SKELETON_POSITION_SPINE ------------------- Bip01_Spine2 ---------------------- 1
+
+NUI_SKELETON_POSITION_HIP_CENTER -------------- Bip01_Spine1 ---------------------- 0
+
+NUI_SKELETON_POSITION_HIP_RIGHT --------------- Bip01_R_Thigh --------------------- 16
+NUI_SKELETON_POSITION_KNEE_RIGHT -------------- Bip01_R_Calf ---------------------- 17
+NUI_SKELETON_POSITION_ANKLE_RIGHT ------------- Bip01_R_Foot ---------------------- 18
+NUI_SKELETON_POSITION_FOOT_RIGHT -------------- Bip01_R_Toe0 ---------------------- 19
+
+NUI_SKELETON_POSITION_HIP_LEFT ---------------- Bip01_L_Thigh --------------------- 12
+NUI_SKELETON_POSITION_KNEE_LEFT --------------- Bip01_L_Calf ---------------------- 13
+NUI_SKELETON_POSITION_ANKLE_LEFT -------------- Bip01_L_Foot ---------------------- 14
+NUI_SKELETON_POSITION_FOOT_LEFT --------------- Bip01_L_Toe0 ---------------------- 15
+
+*************************************** Bipad.x ***************************************
+
+
+NUI_SKELETON_POSITION_HEAD -------------------- Bip001_Head ------------- 3
+
+NUI_SKELETON_POSITION_SHOULDER_CENTER --------- Bip001_Neck ------------- 2
+
+NUI_SKELETON_POSITION_SHOULDER_RIGHT ---------- Bip001_R_UpperArm-------- 8
+NUI_SKELETON_POSITION_ELBOW_RIGHT ------------- Bip001_R_Forearm---------- 9
+NUI_SKELETON_POSITION_WRIST_RIGHT ------------- Bip001_R_Hand--------- 10
+NUI_SKELETON_POSITION_HAND_RIGHT -------------- Bip001_R_Finger0------------ 11
+
+NUI_SKELETON_POSITION_SHOULDER_LEFT ----------- Bip001_L_UpperArm-------- 4
+NUI_SKELETON_POSITION_ELBOW_LEFT -------------- Bip001_L_Forearm---------- 5
+NUI_SKELETON_POSITION_WRIST_LEFT -------------- Bip001_L_Hand--------- 6
+NUI_SKELETON_POSITION_HAND_LEFT --------------- Bip001_L_Finger0------------ 7
+
+NUI_SKELETON_POSITION_SPINE ------------------- Bip001_Spine1----------- 1
+
+NUI_SKELETON_POSITION_HIP_CENTER -------------- Bip001_Pelvis----------- 0
+
+NUI_SKELETON_POSITION_HIP_RIGHT --------------- Bip001_R_Thigh----------- 16
+NUI_SKELETON_POSITION_KNEE_RIGHT -------------- Bip001_R_Calf------------ 17
+NUI_SKELETON_POSITION_ANKLE_RIGHT ------------- Bip001_R_Foot------------ 18
+NUI_SKELETON_POSITION_FOOT_RIGHT -------------- Bip001_R_Toe02------------- 19
+
+NUI_SKELETON_POSITION_HIP_LEFT ---------------- Bip001_L_Thigh----------- 12
+NUI_SKELETON_POSITION_KNEE_LEFT --------------- Bip001_L_Calf------------ 13
+NUI_SKELETON_POSITION_ANKLE_LEFT -------------- Bip001_L_Foot------------ 14
+NUI_SKELETON_POSITION_FOOT_LEFT --------------- Bip001_L_Toe02------------- 15
+
+*************************************** Bones.x ***************************************
+
+
+NUI_SKELETON_POSITION_HEAD -------------------- Head ------------- 3
+
+NUI_SKELETON_POSITION_SHOULDER_CENTER --------- Shoulder_Center ------------- 2
+
+NUI_SKELETON_POSITION_SHOULDER_RIGHT ---------- Shoulder_Right -------- 8
+NUI_SKELETON_POSITION_ELBOW_RIGHT ------------- Elbow_Right ---------- 9
+NUI_SKELETON_POSITION_WRIST_RIGHT ------------- Wrist_Right --------- 10
+NUI_SKELETON_POSITION_HAND_RIGHT -------------- Hand_Right ------------ 11
+
+NUI_SKELETON_POSITION_SHOULDER_LEFT ----------- Shoulder_Left -------- 4
+NUI_SKELETON_POSITION_ELBOW_LEFT -------------- Elbow_Left ---------- 5
+NUI_SKELETON_POSITION_WRIST_LEFT -------------- Wrist_Left --------- 6
+NUI_SKELETON_POSITION_HAND_LEFT --------------- Hand_Left ------------ 7
+
+NUI_SKELETON_POSITION_SPINE ------------------- Spine ----------- 1
+
+NUI_SKELETON_POSITION_HIP_CENTER -------------- Hip_Center ----------- 0
+
+NUI_SKELETON_POSITION_HIP_RIGHT --------------- Hip_Right ----------- 16
+NUI_SKELETON_POSITION_KNEE_RIGHT -------------- Knee_Right ------------ 17
+NUI_SKELETON_POSITION_ANKLE_RIGHT ------------- Ankle_Right ------------ 18
+NUI_SKELETON_POSITION_FOOT_RIGHT -------------- Foot_Right ------------- 19
+
+NUI_SKELETON_POSITION_HIP_LEFT ---------------- Hip_Left ----------- 12
+NUI_SKELETON_POSITION_KNEE_LEFT --------------- Knee_Left ------------ 13
+NUI_SKELETON_POSITION_ANKLE_LEFT -------------- Ankle_Left ------------ 14
+NUI_SKELETON_POSITION_FOOT_LEFT --------------- Foot_Left ------------- 15
+
